@@ -1,0 +1,2 @@
+# вместо '0000000000:XXXXXXXXXXXXXXXX" впишите токен, выданный BotFather
+TOKEN='0000000000:XXXXXXXXXXXXXXXX"
